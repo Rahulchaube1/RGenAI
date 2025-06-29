@@ -1,0 +1,20 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.40.0
+datasets>=2.19.0
+diffusers>=0.28.0
+accelerate
+tqdm
+numpy
+Pillow
+matplotlib
+scipy
+scikit-learn
+
+# Optional for training
+wandb
+tensorboard
+
+# Optional for web interface (later)
+gradio
